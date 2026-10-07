@@ -1,13 +1,14 @@
-# Main navigation
 main:
   - title: "Home"
     url: /
-  - title: "Artists"
-    url: /artists/
+  - title: "Blog"
+    url: /categories/#blog
+  - title: "Biographies"
+    url: /categories/#biography
   - title: "Reviews"
     url: /reviews/
-  - title: "Blogs"
-    url: /blogs/
+  - title: "Artists"
+    url: /artists/
   - title: "About"
     url: /about/
   - title: "Contact"
