@@ -9,4 +9,4 @@ author_profile: true
 
 Founded by **DjMondo** (Alaile Monday Oluwaseyi), a Nigerian record producer, disc jockey, and songwriter.
 
-The platform exists to document the real stories behind the music, support upcoming talent, and give music lovers clear, no-nonsense content.
+The platform exists to document the real stories behind the music, support upcoming talent, and give music lovers clear, no-nonsense content. Visit our website; [www.djmondomusic.com.ng](https://www.djmondomusic.com.ng)
