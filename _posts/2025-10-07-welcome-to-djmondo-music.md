@@ -2,7 +2,7 @@
 title: "Welcome to DjMondo Music"
 date: 2025-10-07
 categories:
-  - News
+  - Blogs
 tags:
   - announcement
   - afrobeats
