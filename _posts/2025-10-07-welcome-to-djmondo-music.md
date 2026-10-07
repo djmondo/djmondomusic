@@ -12,7 +12,7 @@ header:
 excerpt: "The official launch of DjMondo Music — honest Afrobeats coverage, artist biographies, and real industry stories."
 ---
 
-Welcome to the official blog of **DjMondo Music**.
+Welcome to the official blog of **[DjMondo Music](https://www.djmondomusic.com.ng)**.
 
 Here you’ll find:
 
