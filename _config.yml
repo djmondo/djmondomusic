@@ -3,8 +3,8 @@ title: "DjMondo Music"
 subtitle: "Straight-talk music platform"
 name: "DjMondo"
 description: "Honest, in-depth breakdowns of artists, music tools, industry trends, and the culture shaping today’s sound. Focused on Afrobeats and African music."
-url: "https://djmondo.github.io"
-baseurl: "/djmondomusic"   # remove this line if your repo is username.github.io
+url: "https://djmondomusic.com.ng"
+baseurl: "/djmondomusic"   # Remove this line if your repo is named username.github.io
 
 # Theme
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
@@ -13,7 +13,7 @@ minimal_mistakes_skin: "dark"   # Options: default, air, aqua, contrast, dark, d
 # Site Author
 author:
   name: "DjMondo"
-  avatar: "/assets/images/bio-photo.jpg"   # optional
+  avatar: "/assets/images/bio-photo.jpg"
   bio: "Nigerian record producer, DJ & founder of DjMondo Music"
   location: "Lagos, Nigeria"
   links:
@@ -25,7 +25,7 @@ author:
       url: "https://twitter.com/djmondomusic"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/djmondomusic"
+      url: "https://instagram.com/officialdjmondo"
 
 # Site Settings
 locale: "en-US"
@@ -37,7 +37,7 @@ words_per_minute: 200
 # SEO & Social
 twitter:
   username: "djmondomusic"
-og_image: "/assets/images/og-image.jpg"   # create this later (1200x630 recommended)
+og_image: "/assets/images/og-image.jpg"
 
 # Defaults
 defaults:
@@ -60,7 +60,7 @@ defaults:
       layout: single
       author_profile: true
 
-# Plugins (GitHub Pages supported)
+# Plugins
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -78,7 +78,6 @@ timezone: "Africa/Lagos"
 include:
   - _pages
 
-# Exclude from processing
 exclude:
   - .sass-cache/
   - .jekyll-cache/
