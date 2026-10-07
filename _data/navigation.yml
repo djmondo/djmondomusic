@@ -6,8 +6,8 @@ main:
     url: /artists/
   - title: "Reviews"
     url: /reviews/
-  - title: "News"
-    url: /categories/#news
+  - title: "Blogs"
+    url: /blogs/
   - title: "About"
     url: /about/
   - title: "Contact"
