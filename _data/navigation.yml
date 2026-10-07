@@ -4,7 +4,7 @@ main:
   - title: "Blog"
     url: /categories/#blog
   - title: "Biographies"
-    url: /categories/#biography
+    url: /biographies/
   - title: "Reviews"
     url: /reviews/
   - title: "Artists"
