@@ -1,3 +1,11 @@
 theme: jekyll-theme-minimal
 title: DjMondo Music
-description: DjMondo Music is a straight-talk music platform dedicated to delivering honest, in-depth breakdowns of artists, music tools, industry trends, and the culture
+description: Honest, in-depth breakdowns of artists, music tools, industry trends, and the culture shaping today’s sound. Focused on Afrobeats & African music.
+
+# Optional but useful
+show_downloads: false
+google_analytics: # add your GA ID later if you want
+
+# Better defaults for a blog
+permalink: pretty
+markdown: kramdown
