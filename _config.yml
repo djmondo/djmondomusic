@@ -1,11 +1,89 @@
-theme: jekyll-theme-minimal
-title: DjMondo Music
-description: Honest, in-depth breakdowns of artists, music tools, industry trends, and the culture shaping today’s sound. Focused on Afrobeats & African music.
+# Welcome to DjMondo Music
+title: "DjMondo Music"
+subtitle: "Straight-talk music platform"
+name: "DjMondo"
+description: "Honest, in-depth breakdowns of artists, music tools, industry trends, and the culture shaping today’s sound. Focused on Afrobeats and African music."
+url: "https://djmondo.github.io"
+baseurl: "/djmondomusic"   # remove this line if your repo is username.github.io
 
-# Optional but useful
-show_downloads: false
-google_analytics: # add your GA ID later if you want
+# Theme
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "dark"   # Options: default, air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
 
-# Better defaults for a blog
-permalink: pretty
-markdown: kramdown
+# Site Author
+author:
+  name: "DjMondo"
+  avatar: "/assets/images/bio-photo.jpg"   # optional
+  bio: "Nigerian record producer, DJ & founder of DjMondo Music"
+  location: "Lagos, Nigeria"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.djmondomusic.com.ng"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/djmondomusic"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/djmondomusic"
+
+# Site Settings
+locale: "en-US"
+search: true
+search_full_content: true
+read_time: true
+words_per_minute: 200
+
+# SEO & Social
+twitter:
+  username: "djmondomusic"
+og_image: "/assets/images/og-image.jpg"   # create this later (1200x630 recommended)
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# Plugins (GitHub Pages supported)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-seo-tag
+
+# Outputting
+permalink: /:categories/:title/
+paginate: 8
+paginate_path: /page:num/
+timezone: "Africa/Lagos"
+
+include:
+  - _pages
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
