@@ -1,0 +1,80 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* ===== Music Blog Custom Styles ===== */
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background: #0f0f0f;
+  color: #e0e0e0;
+  line-height: 1.7;
+}
+
+a {
+  color: #ff4d6d; /* music-red accent */
+}
+
+a:hover {
+  color: #ff7a8f;
+}
+
+header h1, header h1 a {
+  color: #ffffff !important;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+}
+
+header p {
+  color: #aaaaaa !important;
+  font-size: 1.05em;
+}
+
+/* Make the main content area nicer */
+section {
+  max-width: 720px;
+}
+
+h1, h2, h3 {
+  color: #ffffff;
+  font-weight: 600;
+}
+
+/* Post list styling */
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+ul li {
+  margin-bottom: 1.2em;
+  padding-bottom: 1.2em;
+  border-bottom: 1px solid #2a2a2a;
+}
+
+ul li a {
+  font-size: 1.25em;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+ul li small {
+  display: block;
+  color: #888;
+  margin-top: 0.3em;
+  font-size: 0.9em;
+}
+
+/* Code blocks / quotes look better */
+pre, code {
+  background: #1a1a1a !important;
+  border-radius: 6px;
+}
+
+blockquote {
+  border-left: 4px solid #ff4d6d;
+  background: #1a1a1a;
+  padding: 1em 1.5em;
+  color: #ccc;
+}
