@@ -10,11 +10,11 @@ tags:
   - lagos
   - biography
 header:
-  teaser: /assets/images/djmondo-teaser.jpg
+  teaser: /assets/images/djmondo-biography.jpg
 excerpt: "Meet DjMondo (Alaile Monday Oluwaseyi) – Nigerian record producer, DJ and songwriter blending Afrobeats, Hip-Hop and Dancehall."
 ---
 
-**DjMondo**, born **Alaile Monday Oluwaseyi**, is a Nigerian record producer, disc jockey, and songwriter from Lagos State. He is known for blending **Afrobeats, Hip-Hop, and Dancehall** into a unique Afro-fusion sound that continues to attract attention across the streaming space.
+[**DjMondo**, born **Alaile Monday Oluwaseyi**](https://www.djmondomusic.com.ng/2025/11/djmondo-the-lagos-producer-redefining-afrobeat-hip-hop.html), is a Nigerian record producer, disc jockey, and songwriter from Lagos State. He is known for blending **Afrobeats, Hip-Hop, and Dancehall** into a unique Afro-fusion sound that continues to attract attention across the streaming space.
 
 ### Early Life & Background
 
