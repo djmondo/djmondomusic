@@ -1,0 +1,17 @@
+# Main navigation links
+main:
+  - title: "Home"
+    url: /
+  - title: "Music"
+    url: /#
+    children:
+      - title: "Artists"
+        url: /artists/
+      - title: "Reviews"
+        url: /reviews/
+      - title: "News & Articles"
+        url: /categories/#news
+  - title: "About"
+    url: /about/
+  - title: "Contact"
+    url: /contact/
