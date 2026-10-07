@@ -2,7 +2,7 @@ main:
   - title: "Home"
     url: /
   - title: "Blog"
-    url: /categories/#blog
+    url: /blogs/
   - title: "Biographies"
     url: /biographies/
   - title: "Reviews"
