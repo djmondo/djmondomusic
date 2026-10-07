@@ -6,6 +6,6 @@ author_profile: true
 
 For collaborations, press, or inquiries:
 
-- Website: www.djmondomusic.com.ng
+- Visit our website; [www.djmondomusic.com.ng](https://www.djmondomusic.com.ng)
 - Instagram: [@officialdjmondo](https://instagram.com/officialdjmondo)
 - Facebook: [@OfficialDjmondo](https://facebook.com/OfficialDjmondo)
